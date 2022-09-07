@@ -8,9 +8,9 @@ The code for DGI simple application. Uses master files produced by another proje
 > **Prerequisites** 
 
 	* PyTorch
-	* [pyg](https://pytorch-geometric.readthedocs.io/en/latest/notes/installation.html)
-	* [torch-scatter](https://pytorch.org/docs/stable/generated/torch.scatter.html)
-	* [torch-sparse] (https://pytorch.org/docs/stable/sparse.html)
+	* [pyg][https://pytorch-geometric.readthedocs.io/en/latest/notes/installation.html]
+	* [torch-scatter][https://pytorch.org/docs/stable/generated/torch.scatter.html]
+	* [torch-sparse][https://pytorch.org/docs/stable/sparse.html]
 	* pandas, numpy, sklearn, matplotlib, bhtsne.tsne (or sklearn.manifold.TSNE)
 
 ### HOW TO USE THIS CODE
